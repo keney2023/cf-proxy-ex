@@ -824,12 +824,7 @@ const mainPage = `
 <head>
   <style>
     body{
-      background:rgb(150,10,10);
-      color:rgb(240,240,0);
-    }
-    a{
-      color:rgb(250,250,180);
-    }
+    
     del{
       color:rgb(190,190,190);
     }
